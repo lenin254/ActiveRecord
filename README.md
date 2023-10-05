@@ -1,4 +1,6 @@
 # Active Record
+Se agrego para que pase las pruebas
+
 
 ```ruby
 # ActiveRecord
